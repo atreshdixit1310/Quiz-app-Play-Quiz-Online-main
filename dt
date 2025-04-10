@@ -1,0 +1,18 @@
+                    List of relations
+ Schema |         Name          |   Type   |    Owner     
+--------+-----------------------+----------+--------------
+ public | cache                 | table    | laravel_user
+ public | cache_locks           | table    | laravel_user
+ public | failed_jobs           | table    | laravel_user
+ public | failed_jobs_id_seq    | sequence | laravel_user
+ public | job_batches           | table    | laravel_user
+ public | jobs                  | table    | laravel_user
+ public | jobs_id_seq           | sequence | laravel_user
+ public | migrations            | table    | laravel_user
+ public | migrations_id_seq     | sequence | laravel_user
+ public | password_reset_tokens | table    | laravel_user
+ public | sessions              | table    | laravel_user
+ public | users                 | table    | laravel_user
+ public | users_id_seq          | sequence | laravel_user
+(13 rows)
+
