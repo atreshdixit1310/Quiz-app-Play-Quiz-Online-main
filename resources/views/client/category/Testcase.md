@@ -49,10 +49,7 @@
 | **When** |  | They try to access the dashboard without logging in. |  |  |  |
 | **Then** |  | They are redirected to the login page. |  |  |  |
 | **Test Run** |  | **Date** | 02/04/2025 | **Result** | Pass |
-| Testing outputs  (paste your output/snapshots here ) 
-
-![image1](Images/Testcase1.png)
-
+| Testing outputs  (paste your output/snapshots here ) ![][image1] |  |  |  |  |  |
 
 **TC2: Dashboard Access After Login.**
 
