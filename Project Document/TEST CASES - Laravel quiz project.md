@@ -16,31 +16,31 @@
 
 **Table of Contents**
 
-[Test Environment :](#test-environment-:-tc1:-:-user-registration-and-login-access.)
+[Test Environment :
 
-[TC1: : User Registration and Login Access.	3](#test-environment-:-tc1:-:-user-registration-and-login-access.)
+[TC1: : User Registration and Login Access.	
 
-[TC2: Dashboard Access After Login.	4](#heading=h.ds0ayrjz1zf4)
+[TC2: Dashboard Access After Login.	
 
-[TC3: Navigating to the Quiz Page.	5](#tc3:-navigating-to-the-quiz-page.)
+[TC3: Navigating to the Quiz Page.
 
-[TC4:Choosing Between Practice Quiz and Category-Based Quiz.	6](#tc4:choosing-between-practice-quiz-and-category-based-quiz.)
+[TC4:Choosing Between Practice Quiz and Category-Based Quiz.
 
-[TC5: Selecting a Category for the Quiz.	7](#tc5:-selecting-a-category-for-the-quiz.)
+[TC5: Selecting a Category for the Quiz.
 
-[TC6: Answering a Question with Instant Feedback.	8](#tc6:-answering-a-question-with-instant-feedback.)
+[TC6: Answering a Question with Instant Feedback.
 
-[TC7: Completing the Quiz and Viewing the Score.	9](#tc7:-completing-the-quiz-and-viewing-the-score.)
+[TC7: Completing the Quiz and Viewing the Score.
 
-[TC8: Attempting a Practice Quiz.	10](#tc8:-attempting-a-practice-quiz.)
+[TC8: Attempting a Practice Quiz.
 
-[TC9: Logging Out from the Platform.	11](#tc9:-logging-out-from-the-platform.)
+[TC9: Logging Out from the Platform.
 
-[TC10: Preventing Quiz Access Without Login.	12](#tc10:-preventing-quiz-access-without-login.)
+[TC10: Preventing Quiz Access Without Login.
 
 ## **Flow Diagram**
 
-## Test Environment :  **TC1: : User Registration and Login Access.** {#test-environment-:-tc1:-:-user-registration-and-login-access.}
+## Test Environment :  **TC1: : User Registration and Login Access.** 
 
 | Scenario |  | User registers and logs in. |  |  |  |
 | :---- | ----- | :---- | :---- | :---- | :---- |
@@ -69,7 +69,7 @@
 
 ### 
 
-## **TC3: Navigating to the Quiz Page.** {#tc3:-navigating-to-the-quiz-page.}
+## **TC3: Navigating to the Quiz Page.** 
 
 | Scenario |  | User moves from the dashboard to the quiz selection page. |  |  |  |
 | :---- | ----- | :---- | :---- | :---- | :---- |
@@ -86,7 +86,7 @@
 
 ## 
 
-## **TC4:Choosing Between Practice Quiz and Category-Based Quiz.** {#tc4:choosing-between-practice-quiz-and-category-based-quiz.}
+## **TC4:Choosing Between Practice Quiz and Category-Based Quiz.** 
 
 | Scenario |  | The user selects a quiz type. |  |  |  |
 | :---- | ----- | :---- | :---- | :---- | :---- |
@@ -101,7 +101,7 @@
 
 ## 
 
-## **TC5: Selecting a Category for the Quiz.** {#tc5:-selecting-a-category-for-the-quiz.}
+## **TC5: Selecting a Category for the Quiz.** 
 
 | Scenario |  | The user chooses a quiz category. |  |  |  |
 | :---- | ----- | :---- | :---- | :---- | :---- |
@@ -119,7 +119,7 @@
 
 ## 
 
-## **TC6: Answering a Question with Instant Feedback.** {#tc6:-answering-a-question-with-instant-feedback.}
+## **TC6: Answering a Question with Instant Feedback.** 
 
 | Scenario |  | The user selects an answer for a quiz question. |  |  |  |
 | :---- | ----- | :---- | :---- | :---- | :---- |
@@ -134,7 +134,7 @@
 
 ##  
 
-## **TC7: Completing the Quiz and Viewing the Score.** {#tc7:-completing-the-quiz-and-viewing-the-score.}
+## **TC7: Completing the Quiz and Viewing the Score.** 
 
 | Scenario |  | The user finishes answering all quiz questions. |  |  |  |
 | :---- | ----- | :---- | :---- | :---- | :---- |
@@ -148,7 +148,7 @@
 ![image1](Images/Testcase7.png)
 ## 
 
-## **TC8: Attempting a Practice Quiz.** {#tc8:-attempting-a-practice-quiz.}
+## **TC8: Attempting a Practice Quiz.**
 
 | Scenario |  | The user starts a Practice Quiz. |  |  |  |
 | :---- | ----- | :---- | :---- | :---- | :---- |
@@ -161,7 +161,7 @@
 
 ![image1](Images/Testcase8.png)
 
-## **TC9: Logging Out from the Platform.** {#tc9:-logging-out-from-the-platform.}
+## **TC9: Logging Out from the Platform.** 
 
 | Scenario |  | The user logs out. |  |  |  |
 | :---- | ----- | :---- | :---- | :---- | :---- |
@@ -175,7 +175,7 @@
 ![image1](Images/Testcase9.png)
 
 
-## **TC10: Preventing Quiz Access Without Login.** {#tc10:-preventing-quiz-access-without-login.}
+## **TC10: Preventing Quiz Access Without Login.** 
 
 | Scenario |  | A user tries to access the quiz without logging in. |  |  |  |
 | :---- | ----- | :---- | :---- | :---- | :---- |
