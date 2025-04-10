@@ -10,6 +10,8 @@ Approach Paper for Laravel Quiz Website
 
 [3.1 Architecture Diagram	2](#3.1-architecture-diagram)
 
+![image1](Images/Daigram.png)
+
 [3.2 Approach Details \- Description	4](#3.2-approach-details---description)
 
 [3.3 Pre-requisites	5](#3.3-pre-requisites)

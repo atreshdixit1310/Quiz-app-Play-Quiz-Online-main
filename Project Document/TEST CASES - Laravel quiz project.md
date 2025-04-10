@@ -40,6 +40,8 @@
 
 ## **Flow Diagram**
 
+![image1](Images/Daigram.png)
+
 ## Test Environment :  **TC1: : User Registration and Login Access.** 
 
 | Scenario |  | User registers and logs in. |  |  |  |
